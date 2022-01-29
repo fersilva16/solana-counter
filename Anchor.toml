@@ -1,5 +1,5 @@
 [programs.localnet]
-solana_nft = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+solana_nft = "ADCYxKFAQ5MtWiCBkypdrW8kJ9nZxzHcxrtXwmkvdenE"
 
 [registry]
 url = "https://anchor.projectserum.com"
